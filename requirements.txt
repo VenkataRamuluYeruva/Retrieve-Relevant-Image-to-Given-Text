@@ -1,0 +1,5 @@
+flask
+nltk
+pandas
+Pillow
+scikit-learn
